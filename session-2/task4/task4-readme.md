@@ -33,5 +33,5 @@ Test `make clean`.
 
 ## Step 3 - extension
 
-We can include the same teachniques from Task 2 to define variables and wildcards
+We can include the same techniques from Task 2 to define variables and wildcards
 to produce a more generic Makefile. 
